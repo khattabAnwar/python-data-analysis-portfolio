@@ -40,7 +40,8 @@ The goal is to demonstrate my skills in data cleaning, analysis, and visualizati
 ## How to Run
 1. Make sure you have **Python 3**, **pandas**, and **matplotlib** installed
 2. Place `sample_sales_100.csv` in the same folder as the script
-3. Run `python sales_analysis.py` in your terminal or PyCharm
+3. Run `python main.py` in your terminal or PyCharm
 4. Visualizations will be displayed and can also be saved as images
+
 
 
